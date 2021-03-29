@@ -7,7 +7,7 @@ This is my personal [Prettier](https://prettier.io/) configuration file. Will be
 1. Install
 
     ```s
-    $ yarn add --dev @imgjeits/prettier-config
+    yarn add --dev @imgjeits/prettier-config
     ```
 
 2. Add to your package.json
