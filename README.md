@@ -1,5 +1,7 @@
 # Prettier configuration
 
+[_@imgjeits/prettier-config_](https://www.npmjs.com/package/@imgjeits/prettier-config)
+
 This is my personal [Prettier](https://prettier.io/) configuration file. Will be changed depending on what I'm working on, use with caution.
 
 ## Usage
