@@ -4,5 +4,10 @@
     "tabWidth": 4,
     "trailingComma": "none",
     "printWidth": 80,
-    "vueIndentScriptAndStyle": true
+    "vueIndentScriptAndStyle": true,
+    "plugins": [
+        "prettier-plugin-astro",
+        "prettier-plugin-tailwindcss"
+    ],
+    "pluginSearchDirs": false
 }
